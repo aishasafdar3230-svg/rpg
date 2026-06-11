@@ -26,7 +26,7 @@ Compile in Dev C++ and run the executable.
 ![Main Menu](main%20menu.png)
 
 ### New Game
-![New Game](new%20game.png)
+![New Game](newgame.png)
 
 ### World Map
 ![World Map](wordmap.png)
