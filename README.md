@@ -32,7 +32,7 @@ Compile in Dev C++ and run the executable.
 ![World Map](wordmap.png)
 
 ### Battle
-![Battle](battle(2).png)
+![Battle](battle.png)
 
 ### Battle Status
 ![Battle Status](battlestatus.png)
